@@ -1,12 +1,8 @@
 # tacohiro systems
 
-<img src="https://www.tacohiro.systems/ceo.webp" height="300" alt="hiro in b&w">
+<img src="https://www.tacohiro.systems/ceo.webp" height="250" alt="hiro in b&w">
 
 building fun (and maybe useful) software
-
-## projects
-
-🚧
 
 ## contact
 
